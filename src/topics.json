@@ -1,0 +1,54 @@
+{
+    "topics":[
+        {
+            "id_topic": 1,
+            "topic_name": "¿Qué es el análisis numérico?",
+            "topic_description": "Un modelo matemático se define, de manera general, como una formulación o una  ecuación que expresa las características esenciales de un sistema físico o de un proceso en términos matemáticos....",
+            "topic_image": "https://i.ibb.co/8zssRjB/ejemplo-Paracaidista.png",
+            "topic_chapters": 1
+        },
+        {
+            "id_topic": 2,
+            "topic_name": "Análisis de errores",
+            "topic_description": "Revisaremos aspectos básicos relacionados con la identificación, cuantificación y minimización de errores.",
+            "topic_image": "https://i.ibb.co/rsWzR11/topic2.png",
+            "topic_chapters": 1
+        },
+        {
+            "id_topic": 3,
+            "topic_name": "Métodos Numéricos para la resolución de Ecuaciones",
+            "topic_description": "Métodos Numéricos para la resolución de Sistemas de Ecuaciones lineales, Factorización de Matrices, Método de Jacobi, Método de Seidel, Sistemas mal Condicionados",
+            "topic_image": "https://i.ibb.co/4t5V690/topic.png",
+            "topic_chapters": 0
+        },
+        {
+            "id_topic": 4,
+            "topic_name": "Métodos Numéricos para la resolución de Sistemas de Ecuaciones lineales",
+            "topic_description": "Métodos Numéricos para la resolución de Sistemas de Ecuaciones lineales, Factorización de Matrices, Método de Jacobi, Método de Seidel, Sistemas mal Condicionados",
+            "topic_image": "https://i.ibb.co/4t5V690/topic.png",
+            "topic_chapters": 0
+        },
+        {
+            "id_topic": 5,
+            "topic_name": "Interpolación y Aproximación de Funciones",
+            "topic_description": "Interpolación Polinomial, Método de Lagrange, Método de Newton, Interpolación por partes, Interpolación Cúbica.",
+            "topic_image": "https://i.ibb.co/4t5V690/topic.png",
+            "topic_chapters": 0
+        },
+        {
+            "id_topic": 6,
+            "topic_name": "Diferenciación e Integración Numérica",
+            "topic_description": "Problema de Valor Inicial Newton Cotes, Regla del Trapecio, Regla de Simpson, Método 1",
+            "topic_image": "https://i.ibb.co/4t5V690/topic.png",
+            "topic_chapters": 0
+        },
+        {
+            "id_topic": 7,
+            "topic_name": "Ecuaciones Diferenciales Numéricas. Problema de Valor Inicial",
+            "topic_description": "Problema de Valor Inicial Newton Cotes, Regla del Trapecio, Regla de Simpson, Método 1",
+            "topic_image": "https://i.ibb.co/4t5V690/topic.png",
+            "topic_chapters": 0
+        }
+        
+    ]
+}
